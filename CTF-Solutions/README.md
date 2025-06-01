@@ -9,6 +9,7 @@ This folder documents my detailed walkthroughs and exploits for CTF challenges.
 - TryHackMe (THM)
 - VulnHub
 - Custom Lab Environments
+- Over The Wire
 
 ---
 
